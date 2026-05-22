@@ -1,8 +1,6 @@
 # 🤖 About Me:
 while(alive){<br>    code();<br>    redesign();<br>    learnSomethingNew();<br>    overthinkUI();<br>}<br><br><br>
-
 Hi, I’m **Riddhika** — a developer who somehow went from building MERN projects to randomly opening Python one day and deciding,<br>“yeah… AI sounds fun too.”<br><br>I love creating things that look clean, feel smooth, and actually make people say<br>“wait… YOU built this?”<br><br>Most of the time, I’m just exploring things that genuinely excite me.<br>I’m a naturally curious person who loves turning ideas into real products and learning whatever helps me build them better.<br><br>“If it works, I’ll optimize it.<br>If it looks good, I’ll redesign it anyway.”
-
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/bsky.app/profile/riddhikapaliwal.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ZG7txBe5Q) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/riddhika-paliwal) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_RK_RK) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32332857) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/_Riddhika_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paliwalriddhika24@gmail.com) 
