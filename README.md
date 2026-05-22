@@ -1,5 +1,5 @@
 # 🤖 About Me:
-while(alive){<br>    code();<br>    redesign();<br>    learnSomethingNew();<br>    overthinkUI();<br>}<br><br><br>
+while(alive){<br>    code();<br>    redesign();<br>    learnSomethingNew();<br>    overthinkUI();<br>}<br>
 Hi, I’m **Riddhika** — a developer who somehow went from building MERN projects to randomly opening Python one day and deciding,<br>“yeah… AI sounds fun too.”<br><br>I love creating things that look clean, feel smooth, and actually make people say<br>“wait… YOU built this?”<br><br>Most of the time, I’m just exploring things that genuinely excite me.<br>I’m a naturally curious person who loves turning ideas into real products and learning whatever helps me build them better.<br><br>“If it works, I’ll optimize it.<br>If it looks good, I’ll redesign it anyway.”
 
 ## 🌐 Socials:
